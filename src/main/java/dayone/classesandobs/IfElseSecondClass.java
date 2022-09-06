@@ -2,6 +2,7 @@ package dayone.classesandobs;
 
 public class IfElseSecondClass {
     public static void main(String[] args) {
+        System.out.println((int) (Math.random() * 100));
 
         int studentsGrade = (int) (Math.random() * 100);
 
